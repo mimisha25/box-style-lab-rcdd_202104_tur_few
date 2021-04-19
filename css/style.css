@@ -5,7 +5,8 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: url('https://i.pinimg.com/originals/eb/79/99/eb7999d68ab0c679d99194dccd41efd9.jpg'), linear-gradient(to right, #6DB3F2, #6DB3F2);
+  background-image: url('https://i.pinimg.com/originals/eb/79/99/eb7999d68ab0c679d99194dccd41efd9.jpg');
+  background: linear-gradient(to right, #FFF, #000);
 }
 
 .container, h1 {
