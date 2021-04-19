@@ -5,6 +5,7 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+  background-image: url('https://i.pinimg.com/originals/eb/79/99/eb7999d68ab0c679d99194dccd41efd9.jpg'), linear-gradient(to right, #FFF, #000);
 }
 
 .container, h1 {
@@ -31,26 +32,32 @@ h4 {
 
 .indifferent {
   background-color: #dddd22;
+  box-shadow:  -1px 1px #fce903, -2px 2px #fce903, -3px 3px #fce903, -4px 4px #fce903, -5px 5px #fce903;
 }
 
 .dubious {
   background-color: #dd4444;
+  box-shadow:  -1px 1px #e71837, -2px 2px #e71837, -3px 3px #e71837, -4px 4px #e71837, -5px 5px #e71837;
 }
 
 .column {
   width: 30%;
   display: inline-block;
+
 }
 
 .small {
   width: 100%;
   height: 100%;
+  border: 2px solid black;
 }
 
 .med {
   width: 203.5%;
+  border: 2px solid black;
 }
 
 .large {
   width: 303%;
+  border: 2px solid black;
 }
