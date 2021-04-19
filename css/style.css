@@ -46,10 +46,12 @@ h4 {
 .small {
   width: 100%;
   height: 100%;
+  border: 2px;
 }
 
 .med {
   width: 203.5%;
+  border: 2px;
 }
 
 .large {
