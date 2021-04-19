@@ -5,7 +5,7 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: url('images/white-wood.png'), linear-gradient(to right, #6DB3F2, #6DB3F2);
+  background-image: url('images/white-wood.jpg'), linear-gradient(to right, #6DB3F2, #6DB3F2);
 }
 
 .container, h1 {
